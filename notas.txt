@@ -1,0 +1,26 @@
+Editor rich text centralizado na tela
+
+Funcionalidades
+	+ Escrever texto na tela
+	+ Title
+	+ Bold
+	+ Italic
+	+ Quote
+	+ Sublinhado
+	+ Hyperlink
+	//+ Texto com "background" < >
+	//+ Palavras tra�adas
+	
+	+ Conseguir acessar tudo atrav�s do teclado
+		- Adicionar atalhos para cada ferramenta
+		- Iniciar o site com a textArea 'já clicada'
+
+
+Atribuições
+Bold - https://www.flaticon.com/authors/dave-gandy
+Italic - <a href="https://www.flaticon.com/free-icons/italic" title="italic icons">Italic icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/italic" title="italic icons">Italic icons created by Freepik - Flaticon</a>
+
+Quote - <a href="https://www.flaticon.com/free-icons/quote" title="quote icons">Quote icons created by Mayor Icons - Flaticon</a>
+Underline - <a href="https://www.flaticon.com/free-icons/underline" title="underline icons">Underline icons created by Pixel perfect - Flaticon</a>
+Hyperlink - <a href="https://www.flaticon.com/free-icons/link" title="link icons">Link icons created by Royyan Wijaya - Flaticon</a>

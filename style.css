@@ -1,0 +1,82 @@
+html, body{
+    padding: 3% 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+}
+
+div.wrapper{
+    /* Essa altura fixa vai virar 'auto' depois */
+    width: 50%;
+    min-width: 600px;
+    padding: 2%;
+    border: 0px solid black;
+    box-shadow: 2px 2px 15px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 3pt;
+    margin: 0 auto;
+    color: rgba(0, 0, 0, 0.74);
+    background-color: white;
+}
+
+button.task-btns{
+    height: 3vh;
+    width: 2.5%;
+    padding: 1% 2%;
+    margin: 0 1%;
+    border-radius: 2pt;
+    border: 0px solid black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: rgba(245, 222, 179, 0);
+}
+
+button.task-btns:hover{
+    cursor: pointer;
+    background-color: rgb(214, 212, 212);
+}
+
+button#title{
+    background-image: url("assets/title-icon.png");
+}
+button#bold{
+    background-image: url("assets/bold-icon.png");
+}
+button#italic{
+    background-image: url("assets/italic-icon2.png");
+}
+button#quote{
+    background-image: url("assets/quote-icon.png");
+}
+button#underline{
+    background-image: url("assets/underline-icon.png");
+}
+button#hyperlink{
+    background-image: url("assets/hyperlink-icon.png");
+}
+
+div.text-container{
+    margin-top: 3%;
+    padding: 2%;
+}
+
+textarea#text-box{
+    width: 100%;
+    min-height: 300px;
+    font-size: 0.8rem;
+    overflow: hidden;
+    resize: none;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+footer{
+    margin-top: 2%;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.7rem;
+}
+
+::selection{
+    background-color: rgb(106, 166, 235);
+}
